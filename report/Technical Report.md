@@ -1,6 +1,6 @@
 # TECHNICAL REPORT: SANSKRIT RAG SYSTEM
 
-**Student Name:** [Your Name]  
+**Name:** Aatishsingh Kachhaway
 **Date:** January 17, 2026  
 **Environment:** Python 3.10 | Windows 11 | CPU-Only
 
